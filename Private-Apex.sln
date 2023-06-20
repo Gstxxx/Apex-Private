@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Private-Apex", "Private-Apex.csproj", "{D6B88542-EC28-46FE-8DBA-E44E0E4C15A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B88542-EC28-46FE-8DBA-E44E0E4C15A7}.Debug|x64.ActiveCfg = Debug|x64
+		{D6B88542-EC28-46FE-8DBA-E44E0E4C15A7}.Debug|x64.Build.0 = Debug|x64
+		{D6B88542-EC28-46FE-8DBA-E44E0E4C15A7}.Release|x64.ActiveCfg = Release|x64
+		{D6B88542-EC28-46FE-8DBA-E44E0E4C15A7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {107FE67F-2A29-4EF6-9669-888D7682CB9C}
+	EndGlobalSection
+EndGlobal
